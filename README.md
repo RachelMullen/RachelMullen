@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RachelMullen
 - 👀 I’m interested in web development, software engineering, and running!
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects that help to streamline companies productivity and improve customer experience.
 - 📫 How to reach me: mullen.rachel@gmail.com
 
