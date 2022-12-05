@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋  Hi, I’m @RachelMullen<br>- 👀  I’m interested in web development, software engineering, and running!<br>- 🌱  I’m currently learning Python.<br>- 💞️  I’m looking to collaborate on projects that help to streamline companies productivity and improve customer experience.<br>- 📫  How to reach me: mullen.rachel@gmail.com
+👋  Hi, I’m @RachelMullen<br>- 👀  I’m interested in web development, software engineering, and running!<br>- 🌱  I’m currently learning Python.<br>- 💞️  I’m looking to collaborate on projects that help to streamline companies productivity and improve customer experience.<br>- 📫  How to reach me: mullen.rachel@gmail.com
 
 
 ## 🌐 Socials:
